@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skilled Front-end Developer with extensive experience designing and developing<br>scalable web applications using Spring boot, java, Angular, React. Proficient in building<br>microservices and RESTful APIs and integrating front-end technologies like HTML5,<br>CSS3, and JavaScript. Strong background in java, Kubernetes, and DevOps, focusing on<br>automated testing and continuous deployment. Expertise in micro-frontend<br>development and deep understanding of state management using RxJS/NgRx.
+Skilled Front-end Developer with extensive experience designing and developing<br>scalable web applications using Spring boot, AME, java, Angular, React. Proficient in building<br>microservices and RESTful APIs and integrating front-end technologies like HTML5,<br>CSS3, and JavaScript. Strong background in java, Kubernetes, and DevOps, focusing on<br>automated testing and continuous deployment. Expertise in micro-frontend<br>development and deep understanding of state management using RxJS/NgRx.
 
 
 # 💻 Tech Stack:
